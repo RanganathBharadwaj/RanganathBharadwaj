@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanganathBharadwaj
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Java
-- 📫 How to reach me-kranganathbharadwaj@gmail.com
+- 📫 How to reach me -kranganathbharadwaj@gmail.com
 - 😄 Pronouns: Adaptive, Quick grasper
 - ⚡ Fun fact: Can't live without phone
 
